@@ -2,8 +2,8 @@
 hi bhai
 // Defining the veriables
 bhai ye hai operator = "*";//you can use operation from(+,-,*,/)
-bhai ye hai number1 = "63";
-bhai ye hai number2 = "83";
+bhai ye hai number1 = 63;
+bhai ye hai number2 = 83;
 
 bhai ye hai result = nalla;
 //Preparing the function 
